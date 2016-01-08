@@ -1,0 +1,28 @@
+name: archgrp
+favicon: null
+layout_spectrum: 0.8785733853001148
+typography_spectrum: 0.2536666733212769
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4126989038195461
+  lightness: 0.14065275713801384
+  saturation: 0.03452092036604881
+  rhythmicContrast: 0.7387783958110958
+purpose: []
